@@ -1,6 +1,6 @@
 ---
 layout: page
-title: store cority
+title: store quality
 permalink: /cority/
 ---
 Product reliability and performance are directly related to quality and a major concern of any customer who must have the assurance they are receiving products as designed, with a material and quality level that meets or exceeds their requirements.
