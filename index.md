@@ -1,6 +1,6 @@
 ---
 layout: home
-
+title: store valves company
 ---
 <h1>store valves company</h1>
 welcome to store valves company website
