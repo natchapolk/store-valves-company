@@ -5,12 +5,12 @@ permalink: /order/
 ---
 you can order our products by submit this form
 <br>
-
-name* <input id="name">
+<form id="frm1" action="user.php">
+name* <input type="text" id="name">
 <br>
-email* <input id="email">
+email* <input type="text" id="email">
 <br>
-phone number*<input id="phone">
+phone number*<input type="text" id="phone">
 <br>
-<button onclick="form()" id="name">submit</button>
-
+<input type="submit" name="submit" volue="submit">
+</form>
