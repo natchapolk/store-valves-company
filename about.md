@@ -3,6 +3,7 @@ layout: page
 title: About store
 permalink: /about/
 ---
+<<<<<<< HEAD
 store valves company
 <h1>กลุ่มนักพัฒนาเว็บไซต์</h1>
 1. นายณัชพล การวิวัฒน์ (ณัช)
@@ -28,3 +29,5 @@ store valves company
 โรงเรียนชลประทานนาตลิ่งชัน
 <img src="/assets/Tu.jpg" alt="Tu">
 
+=======
+>>>>>>> 0ee7c8b2ba7d29dc283d1dbb86738f8d2d4bdaf3
