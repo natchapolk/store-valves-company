@@ -3,8 +3,13 @@ layout: page
 title: store products
 permalink: /products/
 ---
+store products
+
 bray brand
-butterfly valves
+	Bray Controls is proud to offer our high performance, highest quality product line. Through years of field application experience, research and development, we have designed products that meet the stringent requirements of today's fluid process industry. Bray offers a complete line of resilient seated butterfly valves for chemical, sanitary and general service applications. Rugged and reliable, Bray valves are built to last.
+www.bray.com
+
+bray butterfly valves
 model S30
 matrial
 body : cast iron
