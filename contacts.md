@@ -4,6 +4,9 @@ title: contacts store
 permalink: /contacts/
 ---
 location : 999 sathon road sathon bangkok thailand
-tel : +6691-847-4892
+<br>
+tel : <a href="+66918474892">+66918474892</a>
+<br>
 email : <a href="mailto: sales@store-valves.com">email</a>
-website : www.store-valves.com
+<br>
+website : <a href="http://natchapolk.github.io/store-valves-company">store-valves-company</a>
